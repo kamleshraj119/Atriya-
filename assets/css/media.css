@@ -1,0 +1,34 @@
+/* Smart Phones And Tablets */
+@media (max-width: 767px)
+{
+    .header .navbar-nav { float: none; background-color: #fff; }
+    
+	.header.shrink .navbar-nav li a,
+	.header .navbar-nav li a { padding: 10px 10px; color: #222; }
+
+    .help .box{margin: 0 15px;}
+    
+    .subscribe form input[type='email']{width: 80%;}
+    
+    .subscribe form input[type='submit']{width: 40%; margin-left: 20%; margin-top: 20px;}
+}
+
+/* Small Screen */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    
+}
+
+/* Medium Screen */
+@media (min-width:992px) and (max-width: 1199px)
+{ 
+    
+    
+    .help .box .item{min-height: 323px; padding: 30px}
+}
+
+/* Large Screen */
+@media (min-width:1200px)
+{
+    .about .words{margin: 0 10%;}
+}

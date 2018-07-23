@@ -1,0 +1,244 @@
+[14-May-2017 17:29:51 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/skillchamps/public_html/latest/include/db_connect.php on line 5
+[14-May-2017 17:29:59 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/skillchamps/public_html/latest/include/db_connect.php on line 5
+[14-May-2017 17:30:33 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/skillchamps/public_html/latest/include/db_connect.php on line 5
+[14-May-2017 17:30:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[15-May-2017 17:21:40 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[15-May-2017 17:23:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[15-May-2017 17:23:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[15-May-2017 19:03:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[15-May-2017 19:03:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[16-May-2017 11:25:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[16-May-2017 11:25:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[16-May-2017 11:25:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[16-May-2017 11:25:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 58
+[16-May-2017 11:25:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[16-May-2017 11:25:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[16-May-2017 20:49:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[16-May-2017 20:49:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master::getJobCategory() in /home/skillchamps/public_html/latest/index.php on line 62
+[17-May-2017 00:16:19 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:employer/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[17-May-2017 00:16:21 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:employer/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[17-May-2017 09:11:18 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 09:11:47 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 09:16:02 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 09:16:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 09:17:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 10:21:36 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591b599c26e3b5_63878214(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 10:24:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 10:25:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 10:29:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:25:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:25:30 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:25:44 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591bd7685e2063_23387574(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:30:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skillchamps/public_html/latest/admin/application/Register.class.php:92) in /home/skillchamps/public_html/latest/admin/application/Register.class.php on line 110
+[17-May-2017 11:31:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591be739256e21_47601712(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:32:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591be739256e21_47601712(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:32:38 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591be739256e21_47601712(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 11:33:31 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(401): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591be739256e21_47601712(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[17-May-2017 14:17:40 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591c0e2bc44c19_64211374(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[20-May-2017 12:54:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_591c0e2bc44c19_64211374(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[21-May-2017 10:02:16 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/skill-mitra-message.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[21-May-2017 10:04:43 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_592014152dded8_60685036(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[21-May-2017 11:13:11 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_592014152dded8_60685036(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[21-May-2017 11:13:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_592014152dded8_60685036(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[21-May-2017 11:51:35 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:25
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(25): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_592014152dded8_60685036(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 25
+[21-May-2017 11:53:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (25-17-1999) at position 0 (2): Unexpected character' in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php:31
+Stack trace:
+#0 /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php(31): DateTime->__construct('25-17-1999')
+#1 /home/skillchamps/public_html/latest/templates_c/72f69dae80e96030c8718f9a079b9d2cf9e321dc_0.file.search_candidate.tpl.php(397): smarty_function_get_age(Array, Object(Smarty_Internal_Template))
+#2 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_resource_base.php(128): content_592014152dded8_60685036(Object(Smarty_Internal_Template))
+#3 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_template_compiled.php(170): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#4 /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php(184): Smarty_Template_Compiled->render(Objec in /home/skillchamps/public_html/latest/libs/plugins/function.get_age.php on line 31
+[21-May-2017 12:54:14 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/skillchamps/public_html/latest/templates/employer/search_candidate.tpl"  on line 340 "<iframe width="100%" height="215" src="https://www.youtube.com/embed/{get_candidate_video cid=$r.uid}" frameborder="0" allowfullscreen></iframe>" unknown tag "get_candidate_video" <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 340
+[21-May-2017 22:05:36 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[21-May-2017 22:05:41 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/skill-mitra-message.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[23-May-2017 11:21:15 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[23-May-2017 11:21:16 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/skill-mitra-message.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[23-May-2017 11:21:16 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[27-May-2017 10:56:13 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/latest/libs/sysplugins/smarty_internal_template.php on line 163
+[06-Jun-2017 22:17:51 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:17:51 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:17:51 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../api/Mailer.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:25 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:25 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:25 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../api/Mailer.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:58 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:58 Asia/Kolkata] PHP Warning:  include(../../api/Mailer.class.php): failed to open stream: No such file or directory in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:58 Asia/Kolkata] PHP Warning:  include(): Failed opening '../../api/Mailer.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skillchamps/public_html/admin/application/Register.class.php on line 2
+[06-Jun-2017 22:18:58 Asia/Kolkata] PHP Fatal error:  Class 'Mailer' not found in /home/skillchamps/public_html/admin/application/Register.class.php on line 653
+[07-Jun-2017 13:41:23 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/skillchamps/public_html/include/db_connect.php on line 5
+[07-Jun-2017 13:41:24 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/skillchamps/public_html/admin/application/Master.class.php on line 349
+[07-Jun-2017 13:41:24 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/skillchamps/public_html/admin/application/Master.class.php on line 350
+[22-Jun-2017 17:37:34 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[22-Jun-2017 17:37:44 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[22-Jun-2017 17:37:53 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[22-Jun-2017 18:41:00 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[22-Jun-2017 18:41:05 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[22-Jun-2017 23:23:37 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/skillchamps/public_html/admin/application/Master.class.php on line 288
+[22-Jun-2017 23:23:38 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skillchamps/public_html/admin/application/Master.class.php:288) in /home/skillchamps/public_html/admin/application/Master.class.php on line 302
+[22-Jun-2017 23:24:30 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/skillchamps/public_html/admin/application/Master.class.php on line 287
+[22-Jun-2017 23:24:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/skillchamps/public_html/admin/application/Master.class.php:287) in /home/skillchamps/public_html/admin/application/Master.class.php on line 302
+[23-Jun-2017 13:52:46 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[23-Jun-2017 13:53:26 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[23-Jun-2017 13:53:49 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[23-Jun-2017 13:55:02 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[23-Jun-2017 13:55:56 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/articles.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[23-Jun-2017 13:56:15 Asia/Kolkata] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template 'file:candidate/blogs.tpl' in 'candidate/layout.tpl' <-- 
+  thrown in /home/skillchamps/public_html/libs/sysplugins/smarty_internal_template.php on line 163
+[24-Jun-2017 13:39:48 Asia/Kolkata] PHP Warning:  Missing argument 4 for Master::getGuruReviews(), called in /home/skillchamps/public_html/guru.php on line 26 and defined in /home/skillchamps/public_html/admin/application/Master.class.php on line 165
+[24-Jun-2017 13:39:48 Asia/Kolkata] PHP Warning:  Missing argument 4 for Master::getGuruReviews(), called in /home/skillchamps/public_html/guru.php on line 59 and defined in /home/skillchamps/public_html/admin/application/Master.class.php on line 165
+[13-Jul-2017 11:49:56 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/skillchamps/public_html/include/db_connect.php on line 5
+[13-Jul-2017 11:49:57 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/skillchamps/public_html/admin/application/Master.class.php on line 599
+[13-Jul-2017 11:49:57 Asia/Kolkata] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/skillchamps/public_html/admin/application/Master.class.php on line 600
+[13-Jul-2017 11:23:11 UTC] PHP Warning:  POST Content-Length of 16988977 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
